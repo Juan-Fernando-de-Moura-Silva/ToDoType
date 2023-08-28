@@ -1,4 +1,4 @@
-import * as C from './styles';
+import * as C from './style.ts';
 import { Item } from '../../types/itens.ts';
 
 type Props = {
